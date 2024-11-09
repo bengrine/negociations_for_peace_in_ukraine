@@ -1,0 +1,2 @@
+# negociations_for_peace_in_ukraine
+LLM diplo conversation
